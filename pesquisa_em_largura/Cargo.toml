@@ -1,0 +1,6 @@
+[package]
+name = "pesquisa_em_largura"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
