@@ -1,0 +1,6 @@
+[package]
+name = "binary_sort_generic"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
